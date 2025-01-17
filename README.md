@@ -10,8 +10,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Yashraj-71/Leetcode/tree/master/0066-plus-one) |
+| [1013-fibonacci-number](https://github.com/Yashraj-71/Leetcode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Yashraj-71/Leetcode/tree/master/0027-remove-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Yashraj-71/Leetcode/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Yashraj-71/Leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Yashraj-71/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
