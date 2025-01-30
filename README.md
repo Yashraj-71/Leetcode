@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Yashraj-71/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Yashraj-71/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yashraj-71/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0344-reverse-string](https://github.com/Yashraj-71/Leetcode/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yashraj-71/Leetcode/tree/master/0020-valid-parentheses) |
+| [0344-reverse-string](https://github.com/Yashraj-71/Leetcode/tree/master/0344-reverse-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Yashraj-71/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Greedy
 |  |
