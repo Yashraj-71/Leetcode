@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Yashraj-71/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Yashraj-71/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Yashraj-71/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Yashraj-71/Leetcode/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yashraj-71/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yashraj-71/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Yashraj-71/Leetcode/tree/master/0169-majority-element) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Yashraj-71/Leetcode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Yashraj-71/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Yashraj-71/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Yashraj-71/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
