@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yashraj-71/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yashraj-71/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Yashraj-71/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Yashraj-71/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Yashraj-71/Leetcode/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/Yashraj-71/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Yashraj-71/Leetcode/tree/master/0268-missing-number) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Yashraj-71/Leetcode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Yashraj-71/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Yashraj-71/Leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Yashraj-71/Leetcode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Yashraj-71/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Yashraj-71/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yashraj-71/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Yashraj-71/Leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Yashraj-71/Leetcode/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
