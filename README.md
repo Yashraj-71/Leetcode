@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Yashraj-71/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Yashraj-71/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Yashraj-71/Leetcode/tree/master/0268-missing-number) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Yashraj-71/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Yashraj-71/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Yashraj-71/Leetcode/tree/master/0229-majority-element-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Yashraj-71/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Yashraj-71/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Yashraj-71/Leetcode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Yashraj-71/Leetcode/tree/master/0344-reverse-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Yashraj-71/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Yashraj-71/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Greedy
 |  |
 | ------- |
