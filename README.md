@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Yashraj-71/Leetcode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/Yashraj-71/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Yashraj-71/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/Yashraj-71/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Math
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/Yashraj-71/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/Yashraj-71/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## String
 |  |
 | ------- |
