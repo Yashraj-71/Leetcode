@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Yashraj-71/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Yashraj-71/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Yashraj-71/Leetcode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Yashraj-71/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/Yashraj-71/Leetcode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/Yashraj-71/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Yashraj-71/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
