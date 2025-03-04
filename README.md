@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Yashraj-71/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Yashraj-71/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Yashraj-71/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Yashraj-71/Leetcode/tree/master/0389-find-the-difference) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Yashraj-71/Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Yashraj-71/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Binary Search
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Yashraj-71/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Yashraj-71/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Yashraj-71/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Yashraj-71/Leetcode/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Yashraj-71/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Yashraj-71/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Yashraj-71/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Yashraj-71/Leetcode/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Yashraj-71/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Yashraj-71/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Yashraj-71/Leetcode/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/Yashraj-71/Leetcode/tree/master/0389-find-the-difference) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Yashraj-71/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Yashraj-71/Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Yashraj-71/Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
