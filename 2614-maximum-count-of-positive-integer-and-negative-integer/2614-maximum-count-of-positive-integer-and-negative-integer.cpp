@@ -1,17 +1,16 @@
 class Solution {
 public:
     int maximumCount(vector<int>& nums) {
-        int positive = 0, negative = 0;
-        
-        for (int num : nums) {
-            if (num < 0) {
-                negative++;
-            } else if (num > 0) {
-                positive++;
-            }
+       int neg=0;
+        int pos=0;
+        for(int num:nums){
+            if(num>0)
+             pos++;
+            else if(num<0)
+             neg++;
+            
         }
-
-        return max(positive, negative);
+        return max(neg,pos);
+        
     }
-    
 };
