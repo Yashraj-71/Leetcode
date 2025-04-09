@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Yashraj-71/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0838-design-linked-list](https://github.com/Yashraj-71/Leetcode/tree/master/0838-design-linked-list) |
 ## Queue
 |  |
 | ------- |
@@ -228,5 +229,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Yashraj-71/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Yashraj-71/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0838-design-linked-list](https://github.com/Yashraj-71/Leetcode/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Yashraj-71/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
