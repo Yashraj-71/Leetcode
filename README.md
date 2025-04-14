@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Yashraj-71/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/Yashraj-71/Leetcode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/Yashraj-71/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1656-count-good-triplets](https://github.com/Yashraj-71/Leetcode/tree/master/1656-count-good-triplets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Yashraj-71/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Yashraj-71/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Yashraj-71/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -239,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Yashraj-71/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0838-design-linked-list](https://github.com/Yashraj-71/Leetcode/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Yashraj-71/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [1656-count-good-triplets](https://github.com/Yashraj-71/Leetcode/tree/master/1656-count-good-triplets) |
 <!---LeetCode Topics End-->
