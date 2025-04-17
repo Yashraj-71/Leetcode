@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/Yashraj-71/Leetcode/tree/master/1656-count-good-triplets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Yashraj-71/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Yashraj-71/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Yashraj-71/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Yashraj-71/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3429-special-array-i](https://github.com/Yashraj-71/Leetcode/tree/master/3429-special-array-i) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Yashraj-71/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
