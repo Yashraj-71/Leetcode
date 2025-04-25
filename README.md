@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Yashraj-71/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Yashraj-71/Leetcode/tree/master/0069-sqrtx) |
+| [0096-unique-binary-search-trees](https://github.com/Yashraj-71/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Yashraj-71/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Yashraj-71/Leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Yashraj-71/Leetcode/tree/master/1013-fibonacci-number) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Yashraj-71/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Yashraj-71/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Yashraj-71/Leetcode/tree/master/0053-maximum-subarray) |
+| [0096-unique-binary-search-trees](https://github.com/Yashraj-71/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yashraj-71/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/Yashraj-71/Leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -257,11 +259,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Yashraj-71/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Yashraj-71/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Yashraj-71/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Yashraj-71/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Yashraj-71/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Yashraj-71/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Yashraj-71/Leetcode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
