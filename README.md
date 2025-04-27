@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Yashraj-71/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Yashraj-71/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3429-special-array-i](https://github.com/Yashraj-71/Leetcode/tree/master/3429-special-array-i) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Yashraj-71/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Yashraj-71/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Yashraj-71/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Math
