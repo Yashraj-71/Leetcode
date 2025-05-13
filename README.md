@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Yashraj-71/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Yashraj-71/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2048-build-array-from-permutation](https://github.com/Yashraj-71/Leetcode/tree/master/2048-build-array-from-permutation) |
+| [2215-finding-3-digit-even-numbers](https://github.com/Yashraj-71/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Yashraj-71/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Yashraj-71/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Yashraj-71/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Yashraj-71/Leetcode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Yashraj-71/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Yashraj-71/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [2215-finding-3-digit-even-numbers](https://github.com/Yashraj-71/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Yashraj-71/Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Yashraj-71/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Binary Search
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Yashraj-71/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Yashraj-71/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Yashraj-71/Leetcode/tree/master/0389-find-the-difference) |
+| [2215-finding-3-digit-even-numbers](https://github.com/Yashraj-71/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Yashraj-71/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Divide and Conquer
 |  |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/Yashraj-71/Leetcode/tree/master/1656-count-good-triplets) |
+| [2215-finding-3-digit-even-numbers](https://github.com/Yashraj-71/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 ## Tree
 |  |
 | ------- |
