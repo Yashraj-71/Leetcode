@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Yashraj-71/Leetcode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/Yashraj-71/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Yashraj-71/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1293-three-consecutive-odds](https://github.com/Yashraj-71/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1656-count-good-triplets](https://github.com/Yashraj-71/Leetcode/tree/master/1656-count-good-triplets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Yashraj-71/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Yashraj-71/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
