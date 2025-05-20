@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Yashraj-71/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Yashraj-71/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Yashraj-71/Leetcode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Yashraj-71/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Yashraj-71/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Yashraj-71/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Yashraj-71/Leetcode/tree/master/0229-majority-element-ii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Yashraj-71/Leetcode/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/Yashraj-71/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Yashraj-71/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Yashraj-71/Leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Yashraj-71/Leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Yashraj-71/Leetcode/tree/master/1013-fibonacci-number) |
 | [3321-type-of-triangle](https://github.com/Yashraj-71/Leetcode/tree/master/3321-type-of-triangle) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Yashraj-71/Leetcode/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/Yashraj-71/Leetcode/tree/master/1656-count-good-triplets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Yashraj-71/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 ## Tree
@@ -289,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/Yashraj-71/Leetcode/tree/master/2048-build-array-from-permutation) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Yashraj-71/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
