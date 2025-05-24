@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Yashraj-71/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Yashraj-71/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Yashraj-71/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3194-find-words-containing-character](https://github.com/Yashraj-71/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/Yashraj-71/Leetcode/tree/master/3321-type-of-triangle) |
 | [3429-special-array-i](https://github.com/Yashraj-71/Leetcode/tree/master/3429-special-array-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Yashraj-71/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Yashraj-71/Leetcode/tree/master/0389-find-the-difference) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Yashraj-71/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Yashraj-71/Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [3194-find-words-containing-character](https://github.com/Yashraj-71/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Yashraj-71/Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Yashraj-71/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Greedy
