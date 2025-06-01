@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/Yashraj-71/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2048-build-array-from-permutation](https://github.com/Yashraj-71/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Yashraj-71/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Yashraj-71/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Yashraj-71/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Yashraj-71/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Yashraj-71/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Yashraj-71/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Yashraj-71/Leetcode/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Yashraj-71/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Yashraj-71/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Yashraj-71/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Dynamic Programming
 |  |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/Yashraj-71/Leetcode/tree/master/2048-build-array-from-permutation) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Yashraj-71/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Number Theory
 |  |
 | ------- |
