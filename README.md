@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Yashraj-71/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Yashraj-71/Leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Yashraj-71/Leetcode/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/Yashraj-71/Leetcode/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/Yashraj-71/Leetcode/tree/master/1013-fibonacci-number) |
 | [3321-type-of-triangle](https://github.com/Yashraj-71/Leetcode/tree/master/3321-type-of-triangle) |
 ## Two Pointers
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Yashraj-71/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Yashraj-71/Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Yashraj-71/Leetcode/tree/master/0389-find-the-difference) |
+| [0415-add-strings](https://github.com/Yashraj-71/Leetcode/tree/master/0415-add-strings) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Yashraj-71/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Yashraj-71/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Yashraj-71/Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Yashraj-71/Leetcode/tree/master/0415-add-strings) |
 | [2048-build-array-from-permutation](https://github.com/Yashraj-71/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Yashraj-71/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Number Theory
